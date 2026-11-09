@@ -86,4 +86,3 @@ Saat mencari ulang, **posisi, energi, korban yang sudah ditangani, dan biaya ter
 6. **Demo GUI:** mulai, jeda, tambah rintangan pada petak kosong di rute aktif, lalu lanjutkan.
 
 **Tiga struktur yang perlu dibedakan:** `KondisiRobot` menyimpan keadaan robot, `RencanaMisi` menyimpan hasil pencarian, dan `SesiMisi` menyimpan serta menjalankan perkembangan misi.
-
