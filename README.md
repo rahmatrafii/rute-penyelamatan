@@ -20,3 +20,7 @@ Ukuran peta tersedia: `6x6`, `8x8`, dan `10x10`.
 GUI menyediakan Mulai, Jeda/Lanjut, Langkah, Tambah Rintangan, Reset, Acak Peta, dan Peta Contoh. Jika rintangan baru memotong rute aktif, A* mencari ulang dari kondisi robot terakhir. Peta acak divalidasi dengan A* sebelum digunakan.
 
 Kode utama dan komentar penjelasan algoritma berada di `main.py`.
+
+## Panduan kode
+
+Lihat [Panduan Lokasi Kode Penting](PANDUAN_KODE.md) untuk penjelasan bagian utama, urutan presentasi, serta tautan langsung ke rentang baris kode di GitHub.
