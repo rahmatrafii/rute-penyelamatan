@@ -21,6 +21,18 @@ GUI menyediakan Mulai, Jeda/Lanjut, Langkah, Tambah Rintangan, Reset, Acak Peta,
 
 Kode utama dan komentar penjelasan algoritma berada di `main.py`.
 
+## Dataset dan evaluasi A*
+
+Evaluasi terpisah tersedia untuk progres proyek Python: **300 peta layak dan 30 kasus tanpa solusi**, dengan susunan peta, seed, serta hasil pengujian yang disimpan. Empat metriknya adalah keberhasilan misi, biaya aksi, waktu pencarian, dan jumlah state yang diperiksa.
+
+Buka [laporan hasil](hasil_evaluasi/laporan.md) dan [panduan evaluasi](PANDUAN_EVALUASI.md). Untuk menguji ulang dataset yang sama:
+
+```powershell
+python evaluasi.py jalankan
+```
+
+Grafik dapat dibuat dari hasil CSV dengan `python grafik_evaluasi.py` setelah memasang `requirements-evaluasi.txt`. Peta layak sudah disaring oleh A*; kasus negatif dilaporkan terpisah. Kegiatan ini adalah evaluasi pencarian, tanpa pelatihan model.
+
 ## Panduan aplikasi
 
 Lihat [Panduan Menjalankan dan Fitur Aplikasi](PANDUAN_APLIKASI.md) untuk perintah menjalankan, pilihan ukuran peta, cara memakai setiap tombol, aturan energi, dan contoh mencoba fitur.

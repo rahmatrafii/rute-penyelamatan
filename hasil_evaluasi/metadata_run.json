@@ -1,0 +1,22 @@
+{
+  "mulai_jakarta": "2026-11-11T14:21:40+07:00",
+  "selesai_jakarta": "2026-11-11T14:22:03+07:00",
+  "python": "3.13.15",
+  "implementasi_python": "CPython",
+  "os": "Windows-11-10.0.26300-SP0",
+  "cpu": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+  "jumlah_skenario": 330,
+  "pengulangan": 5,
+  "jumlah_pencarian_terukur": 1650,
+  "seed_urutan_uji": 20261112,
+  "warmup_per_peta": 1,
+  "timer": "time.perf_counter_ns",
+  "resolusi_timer_ns": 100.0,
+  "sha256_main_py": "21da441fb1bb4cfe3e86f4fefd0ce30470e1e25bf0280f916c3a1babd7503669",
+  "sha256_evaluasi_py": "723d7261da0a4f8cf544c82b7b25afbec7d71dd4e82a878cba8927118e10f7fd",
+  "sha256_dataset": "efa04e173888b721ae3f6b007bc10a6ee0c23f6be440f65c42ee4e134e079db3",
+  "dataset": "skenario.jsonl",
+  "sha256_hasil": "5194a4675af5ab2d78d27a66ebd1fabfbec7005e2138f8db062970db7e470d4a",
+  "normalisasi_checksum": "Akhir baris teks dinormalisasi LF; BOM UTF-8 CSV dipertahankan.",
+  "counter_tanpa_solusi": "Satu pencarian tambahan dengan sys.setprofile; tidak masuk pengukuran waktu."
+}

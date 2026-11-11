@@ -1,0 +1,2 @@
+# Hanya untuk grafik; dataset, evaluasi, dan aplikasi utama memakai pustaka bawaan.
+matplotlib>=3.10,<4

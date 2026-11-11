@@ -1,0 +1,10 @@
+﻿ukuran,jenis,jumlah_peta,misi_selesai,misi_selesai_persen,sesuai_harapan_persen,biaya_rata_rata,waktu_median_ms,state_rata_rata
+6x6,acak_tervalidasi,100,100,100.0,100,13.03,0.5608,48.68
+6x6,pos_terkurung,5,0,0.0,100,,0.0066,1
+6x6,energi_tidak_cukup,5,0,0.0,100,,0.5437,43
+8x8,acak_tervalidasi,100,100,100.0,100,29.55,11.4944,733.34
+8x8,pos_terkurung,5,0,0.0,100,,0.0075,1
+8x8,energi_tidak_cukup,5,0,0.0,100,,0.3878,37
+10x10,acak_tervalidasi,100,100,100.0,100,35.39,19.39065,1054.47
+10x10,pos_terkurung,5,0,0.0,100,,0.0094,1
+10x10,energi_tidak_cukup,5,0,0.0,100,,0.3937,36

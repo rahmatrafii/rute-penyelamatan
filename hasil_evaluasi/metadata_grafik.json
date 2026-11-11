@@ -1,0 +1,12 @@
+{
+  "sha256_hasil": "5194a4675af5ab2d78d27a66ebd1fabfbec7005e2138f8db062970db7e470d4a",
+  "matplotlib": "3.11.2",
+  "python": "3.13.15",
+  "sha256_script": "66907f18b2b006fcbe48a65ce08b5bbcd4948b2c20136c3a87301212ed5c6484",
+  "grafik": [
+    "waktu_pencarian",
+    "state_diperiksa",
+    "biaya_aksi",
+    "hasil_pengujian"
+  ]
+}

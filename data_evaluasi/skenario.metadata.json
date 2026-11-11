@@ -1,0 +1,55 @@
+{
+  "versi_format": 2,
+  "dibuat_jakarta": "2026-11-11T14:21:40+07:00",
+  "normalisasi_checksum": "Akhir baris teks dinormalisasi LF; BOM UTF-8 CSV dipertahankan.",
+  "seed_dasar": 20261111,
+  "layak_per_ukuran": 100,
+  "negatif_per_ukuran": 10,
+  "jumlah_skenario": 330,
+  "percobaan": {
+    "6x6/acak_tervalidasi": {
+      "diterima": 100,
+      "percobaan": 100
+    },
+    "6x6/pos_terkurung": {
+      "diterima": 5,
+      "percobaan": 5
+    },
+    "6x6/energi_tidak_cukup": {
+      "diterima": 5,
+      "percobaan": 5
+    },
+    "8x8/acak_tervalidasi": {
+      "diterima": 100,
+      "percobaan": 100
+    },
+    "8x8/pos_terkurung": {
+      "diterima": 5,
+      "percobaan": 5
+    },
+    "8x8/energi_tidak_cukup": {
+      "diterima": 5,
+      "percobaan": 5
+    },
+    "10x10/acak_tervalidasi": {
+      "diterima": 100,
+      "percobaan": 100
+    },
+    "10x10/pos_terkurung": {
+      "diterima": 5,
+      "percobaan": 5
+    },
+    "10x10/energi_tidak_cukup": {
+      "diterima": 5,
+      "percobaan": 5
+    }
+  },
+  "sha256_dataset": "efa04e173888b721ae3f6b007bc10a6ee0c23f6be440f65c42ee4e134e079db3",
+  "sha256_main_py": "21da441fb1bb4cfe3e86f4fefd0ce30470e1e25bf0280f916c3a1babd7503669",
+  "python": "3.13.15",
+  "sumber": "Sintetis; peta layak dibuat dan disaring buat_peta_acak() asli main.py.",
+  "label_negatif": {
+    "pos_terkurung": "Semua tetangga pos adalah X; robot tidak dapat memulai perjalanan.",
+    "energi_tidak_cukup": "Semua korban/stasiun terhubung secara geometris, tetapi berjarak >10 dari pos; belum ada kesempatan mengisi energi."
+  }
+}
