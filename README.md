@@ -21,6 +21,10 @@ GUI menyediakan Mulai, Jeda/Lanjut, Langkah, Tambah Rintangan, Reset, Acak Peta,
 
 Kode utama dan komentar penjelasan algoritma berada di `main.py`.
 
+## Panduan aplikasi
+
+Lihat [Panduan Menjalankan dan Fitur Aplikasi](PANDUAN_APLIKASI.md) untuk perintah menjalankan, pilihan ukuran peta, cara memakai setiap tombol, aturan energi, dan contoh mencoba fitur.
+
 ## Panduan kode
 
-Lihat [Panduan Lokasi Kode Penting](PANDUAN_KODE.md) untuk penjelasan bagian utama, urutan presentasi, serta tautan langsung ke rentang baris kode di GitHub.
+Lihat [Panduan Lokasi Kode Penting](PANDUAN_KODE.md) untuk penjelasan bagian utama, urutan presentasi, serta tautan ke baris kode `main.py` lokal.
